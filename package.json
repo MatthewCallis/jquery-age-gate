@@ -1,0 +1,22 @@
+{
+  "name": "Age Gate",
+  "version": "1.0.0",
+  "title": "jQuery Age-Gate",
+  "author": {
+    "name": "Matthew Callis",
+    "url": "https://github.com/MatthewCallis"
+  },
+  "licenses": [
+  {
+    "type": "GPLv2",
+    "url": "http://www.gnu.org/licenses/gpl-2.0.html"
+  }
+  ],
+  "dependencies": {
+    "jquery": "1"
+  },
+  "description": "Simple age verification, 'age gate', plugin required by some content providers for mature content and supports cookies when used with jquery-cookie.",
+  "keywords": [ "age gate", "minumum age", "underage", "18 and up" ],
+  "homepage": "https://github.com/hark/jquery-age-gate",
+  "files": [ "jquery.agegate.js" ]
+}
