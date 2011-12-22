@@ -1,6 +1,6 @@
 # jQuery Age Gate Plugin
 
-Simple age verification, 'age gate', plugin required by some content providers for mature content. Supports cookies when used with [jquery-cookie](https://github.com/carhartl/jquery-cookie).
+Simple age verification, 'age gate', plugin required by some content providers for mature content. Supports cookies when used with [jquery-cookie](https://github.com/carhartl/jquery-cookie). Original code concept from [CatsWhoCode.com](http://www.catswhocode.com/blog/10-jquery-snippets-for-efficient-developers).
 
 ## Useage
 
